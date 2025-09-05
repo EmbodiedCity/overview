@@ -942,7 +942,7 @@ textarea.input-field {
 
   .project .project-card {
     flex-direction: row !important;
-    align-items: flex-end;
+    align-items: center;
   }
 
   .project .project-card .card-content {
